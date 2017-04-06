@@ -1,0 +1,2 @@
+# everyday_python_standard_lib
+每天学习一个Python标准库模块
